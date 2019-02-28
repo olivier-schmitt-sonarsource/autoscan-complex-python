@@ -1,2 +1,3 @@
 # autoscan-python-sample
 
+trigger
